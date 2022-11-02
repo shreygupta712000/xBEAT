@@ -1,6 +1,6 @@
 ## X-Beat | React eCommerce Web App
 
-### [Demo Link](shrey-gupta-xbeat.netlify.app) 🔗
+### [Demo Link](https://shrey-gupta-xbeat.netlify.app/) 🔗
 
 Audio Store eCommerce Website, built with **React JS**. <br/>
 State management using Context API.
